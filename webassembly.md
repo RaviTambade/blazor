@@ -1,4 +1,6 @@
-WebAssembly (Wasm) is a binary instruction format that serves as a compilation target for programming languages. It allows code written in languages like C, C++, Rust, and others to be compiled into a binary format that can run in web browsers alongside JavaScript. 
+# WebAssembly
+
+(Wasm) is a binary instruction format that serves as a compilation target for programming languages. It allows code written in languages like C, C++, Rust, and others to be compiled into a binary format that can run in web browsers alongside JavaScript. 
 
 Blazor, on the other hand, is a framework for building interactive web UIs using C# instead of JavaScript. Traditionally, Blazor applications have run on the client-side using WebAssembly, or on the server-side using ASP.NET Core.
 
