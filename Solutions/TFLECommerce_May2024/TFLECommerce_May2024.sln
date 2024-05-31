@@ -5,7 +5,9 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFLECommerce_May2024", "TFLECommerce_May2024\TFLECommerce_May2024.csproj", "{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorAppWebAssembly", "BlazorAppWebAssembly\BlazorAppWebAssembly.csproj", "{C7C27351-1194-4182-B14B-E541CA356C38}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BlazorAppWebAssembly", "BlazorAppWebAssembly\BlazorAppWebAssembly.csproj", "{C7C27351-1194-4182-B14B-E541CA356C38}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HRBlazorWebapp", "HRBlazorWebapp\HRBlazorWebapp.csproj", "{2E46A788-5D17-4152-9BDE-93BF806DBD98}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{C7C27351-1194-4182-B14B-E541CA356C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7C27351-1194-4182-B14B-E541CA356C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7C27351-1194-4182-B14B-E541CA356C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E46A788-5D17-4152-9BDE-93BF806DBD98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E46A788-5D17-4152-9BDE-93BF806DBD98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E46A788-5D17-4152-9BDE-93BF806DBD98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E46A788-5D17-4152-9BDE-93BF806DBD98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

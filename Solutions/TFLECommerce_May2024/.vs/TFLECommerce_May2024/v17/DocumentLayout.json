@@ -1,118 +1,154 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\",
+  "WorkspaceRootPath": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\components\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\components\\pages\\employees.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{601831B2-91F8-4DE3-9869-DCA2ECBAD48B}|BlazorApp1\\BlazorApp1.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{601831B2-91F8-4DE3-9869-DCA2ECBAD48B}|BlazorApp1\\BlazorApp1.csproj|solutionrelative:blazorapp1\\components\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\dbcontexts\\hrcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\components\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\hrblazorwebapp\\hrblazorwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2E46A788-5D17-4152-9BDE-93BF806DBD98}|HRBlazorWebapp\\HRBlazorWebapp.csproj|solutionrelative:hrblazorwebapp\\hrblazorwebapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\weather.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\tflecommerce_may2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\tflecommerce_may2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\entities\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\blazorappwebassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\auth\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\pages\\auth\\register.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\tflecommerce_may2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\tflecommerce_may2024.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\blazorappwebassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\blazorappwebassembly.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\blazorappwebassembly\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\blazorappwebassembly\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{C7C27351-1194-4182-B14B-E541CA356C38}|BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj|solutionrelative:blazorappwebassembly\\wwwroot\\sample-data\\weather.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\employees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\employees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\employees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\data\\tflecommerce_may2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\data\\tflecommerce_may2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\data\\tflecommerce_may2024context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\controllers\\shipmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\views\\customers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|d:\\ravi\\tap\\tap\\blazor\\solutions\\tflecommerce_may2024\\tflecommerce_may2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0E759FEB-D1EA-4A1F-8B7A-8C5762D60E36}|TFLECommerce_May2024\\TFLECommerce_May2024.csproj|solutionrelative:tflecommerce_may2024\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorApp1\\Components\\Pages\\Counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BlazorApp1\\Components\\Pages\\Counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -122,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -130,37 +166,128 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorApp1\\Components\\Pages\\Counter.razor",
-              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Counter.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorApp1\\Components\\Pages\\Counter.razor",
-              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Counter.razor",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T07:29:03.648Z",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Program.cs",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Program.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Program.cs",
+              "RelativeToolTip": "HRBlazorWebapp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:35:02.452Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "MainLayout.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\MainLayout.razor",
-              "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Layout\\MainLayout.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\MainLayout.razor",
-              "RelativeToolTip": "BlazorAppWebAssembly\\Layout\\MainLayout.razor",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAkAAAAOAAAA",
+              "DocumentIndex": 5,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "HRBlazorWebapp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T07:15:10.537Z",
+              "WhenOpened": "2024-05-31T10:28:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Components\\Routes.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Routes.razor",
+              "RelativeToolTip": "HRBlazorWebapp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:28:37.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employees.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Pages\\Employees.razor",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Components\\Pages\\Employees.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Pages\\Employees.razor",
+              "RelativeToolTip": "HRBlazorWebapp\\Components\\Pages\\Employees.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:16:37.523Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "HRContext.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\DbContexts\\HRContext.cs",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\DbContexts\\HRContext.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\DbContexts\\HRContext.cs",
+              "RelativeToolTip": "HRBlazorWebapp\\DbContexts\\HRContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:12:35.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "HRBlazorWebapp\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:12:28.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Entities\\Employee.cs",
+              "RelativeToolTip": "HRBlazorWebapp\\Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T10:12:21.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\Components\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\Components\\Pages\\Weather.razor",
+              "RelativeToolTip": "HRBlazorWebapp\\Components\\Pages\\Weather.razor",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T10:10:34.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HRBlazorWebapp",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\HRBlazorWebapp.csproj",
+              "RelativeDocumentMoniker": "HRBlazorWebapp\\HRBlazorWebapp.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\HRBlazorWebapp\\HRBlazorWebapp.csproj",
+              "RelativeToolTip": "HRBlazorWebapp\\HRBlazorWebapp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-31T10:13:02.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Counter.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Counter.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Counter.razor",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Pages\\Counter.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Counter.razor",
               "RelativeToolTip": "BlazorAppWebAssembly\\Pages\\Counter.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -169,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 13,
               "Title": "Register.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Register.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Register.razor",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Pages\\Auth\\Register.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Register.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Register.razor",
               "RelativeToolTip": "BlazorAppWebAssembly\\Pages\\Auth\\Register.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -182,11 +309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 12,
               "Title": "Login.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Login.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Login.razor",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Pages\\Auth\\Login.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Login.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Auth\\Login.razor",
               "RelativeToolTip": "BlazorAppWebAssembly\\Pages\\Auth\\Login.razor",
               "ViewState": "AQIAAC0AAAAAAAAAAAAAADoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -195,24 +322,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 15,
               "Title": "NavMenu.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\NavMenu.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\NavMenu.razor",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Layout\\NavMenu.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\NavMenu.razor",
               "RelativeToolTip": "BlazorAppWebAssembly\\Layout\\NavMenu.razor",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABwAAAA0AAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwBwAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-31T07:12:29.098Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "WeatherForeCast.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Entities\\WeatherForeCast.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Entities\\WeatherForeCast.cs",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Entities\\WeatherForeCast.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Entities\\WeatherForeCast.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Entities\\WeatherForeCast.cs",
               "RelativeToolTip": "BlazorAppWebAssembly\\Entities\\WeatherForeCast.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -221,11 +348,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "BlazorAppWebAssembly",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj",
+              "DocumentIndex": 9,
+              "Title": "Weather.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Weather.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Pages\\Weather.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Weather.razor",
+              "RelativeToolTip": "BlazorAppWebAssembly\\Pages\\Weather.razor",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T06:06:45.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Layout\\MainLayout.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "BlazorAppWebAssembly\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwAkAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T07:15:10.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorApp1\\Components\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "BlazorApp1\\Components\\Pages\\Counter.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorApp1\\Components\\Pages\\Counter.razor",
+              "RelativeToolTip": "BlazorApp1\\Components\\Pages\\Counter.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T07:29:03.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BlazorAppWebAssembly.csproj",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj",
               "RelativeToolTip": "BlazorAppWebAssembly\\BlazorAppWebAssembly.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -234,24 +400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Weather.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Weather.razor",
-              "RelativeDocumentMoniker": "BlazorAppWebAssembly\\Pages\\Weather.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\Pages\\Weather.razor",
-              "RelativeToolTip": "BlazorAppWebAssembly\\Pages\\Weather.razor",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAAUAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-31T06:06:45.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 17,
               "Title": "App.razor",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\App.razor",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\App.razor",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\App.razor",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\App.razor",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\App.razor",
               "RelativeToolTip": "BlazorAppWebAssembly\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -260,11 +413,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TFLECommerce_May2024",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\TFLECommerce_May2024.csproj",
+              "DocumentIndex": 16,
+              "Title": "TFLECommerce_May2024.csproj",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\TFLECommerce_May2024.csproj",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\TFLECommerce_May2024.csproj",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\TFLECommerce_May2024.csproj",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\TFLECommerce_May2024.csproj",
               "RelativeToolTip": "TFLECommerce_May2024\\TFLECommerce_May2024.csproj",
               "ViewState": "AQIAAAIAAAAAAAAAAAAiwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -273,11 +426,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "weather.json",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\wwwroot\\sample-data\\weather.json",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\wwwroot\\sample-data\\weather.json",
               "RelativeDocumentMoniker": "BlazorAppWebAssembly\\wwwroot\\sample-data\\weather.json",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\BlazorAppWebAssembly\\wwwroot\\sample-data\\weather.json",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\BlazorAppWebAssembly\\wwwroot\\sample-data\\weather.json",
               "RelativeToolTip": "BlazorAppWebAssembly\\wwwroot\\sample-data\\weather.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -286,11 +439,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Create.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Create.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\Employees\\Create.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Create.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Create.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\Employees\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -299,11 +452,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Details.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Details.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\Employees\\Details.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Details.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Details.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\Employees\\Details.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -312,11 +465,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Insert.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Insert.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Insert.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\Products\\Insert.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Insert.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Insert.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\Products\\Insert.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -325,11 +478,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Edit.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Edit.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\Employees\\Edit.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Edit.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Employees\\Edit.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\Employees\\Edit.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -338,11 +491,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Index.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Index.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\Products\\Index.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Index.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Products\\Index.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\Products\\Index.cshtml",
               "ViewState": "AQIAAAIAAAAAAAAAAAAUwA0AAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -351,24 +504,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 25,
               "Title": "TFLECommerce_May2024Context.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Data\\TFLECommerce_May2024Context.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Data\\TFLECommerce_May2024Context.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Data\\TFLECommerce_May2024Context.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Data\\TFLECommerce_May2024Context.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Data\\TFLECommerce_May2024Context.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Data\\TFLECommerce_May2024Context.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAABdAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBAAAABdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T05:50:43.642Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 28,
               "Title": "OrdersController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\OrdersController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Controllers\\OrdersController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\OrdersController.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Controllers\\OrdersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -377,11 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "ShipmentsController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShipmentsController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShipmentsController.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Controllers\\ShipmentsController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShipmentsController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShipmentsController.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Controllers\\ShipmentsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -390,24 +543,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 26,
               "Title": "ShoppingCartController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShoppingCartController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShoppingCartController.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Controllers\\ShoppingCartController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\ShoppingCartController.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Controllers\\ShoppingCartController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T05:40:48.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 29,
               "Title": "CustomersController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\CustomersController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Controllers\\CustomersController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\CustomersController.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Controllers\\CustomersController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -416,11 +569,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 30,
               "Title": "AddToCart.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\AddToCart.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\AddToCart.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\ShoppingCart\\AddToCart.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\AddToCart.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\AddToCart.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\ShoppingCart\\AddToCart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -429,11 +582,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 31,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\Index.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\ShoppingCart\\Index.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\ShoppingCart\\Index.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\ShoppingCart\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -442,11 +595,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 32,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Customers\\Index.cshtml",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Customers\\Index.cshtml",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Views\\Customers\\Index.cshtml",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Customers\\Index.cshtml",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Views\\Customers\\Index.cshtml",
               "RelativeToolTip": "TFLECommerce_May2024\\Views\\Customers\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -455,11 +608,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 33,
               "Title": "Customer.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Customer.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Models\\Customer.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Customer.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Customer.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Models\\Customer.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -468,11 +621,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 34,
               "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Product.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Product.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Models\\Product.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Product.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Models\\Product.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Models\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -481,13 +634,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 35,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "TFLECommerce_May2024\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\Ravi\\TAP\\TAP\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Ravi\\TAP\\TAP\\blazor\\Solutions\\TFLECommerce_May2024\\TFLECommerce_May2024\\Controllers\\HomeController.cs",
               "RelativeToolTip": "TFLECommerce_May2024\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAAAaAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwBEAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-31T05:30:40.946Z",
               "EditorCaption": ""
